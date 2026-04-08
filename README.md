@@ -50,6 +50,8 @@
 * **نسبة الثقة (Confidence Score).**
 
 ---
+#DATA LINK
+ https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 ## 📂 هيكلة الملفات (Project Structure)
 ```text
@@ -59,5 +61,3 @@
 ├── app.py               # كود تطبيق Streamlit
 ├── requirements.txt     # المكتبات المطلوبة
 └── README.md            # وصف المشروع
-#DATA LINK
- https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
